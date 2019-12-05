@@ -1,0 +1,22 @@
+{
+  "name": "my-gulp-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yura0427/my-gulp-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yura0427/my-gulp-project/issues"
+  },
+  "homepage": "https://github.com/Yura0427/my-gulp-project#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
